@@ -1,0 +1,16 @@
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\mvvmExample.Library.deps.json
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\mvvmExample.Library.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\ref\mvvmExample.Library.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\mvvmExample.Library.pdb
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\UniRx.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\Zenject-ReflectionBaking.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\Zenject.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\bin\Release\net5.0\Zenject-ReflectionBaking.pdb
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.AssemblyInfoInputs.cache
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.AssemblyInfo.cs
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.csproj.CoreCompileInputs.cache
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.csproj.CopyComplete
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\ref\mvvmExample.Library.dll
+D:\Work\Gamedev\MVVMLibrary\mvvmExample.Library\obj\Release\net5.0\mvvmExample.Library.pdb

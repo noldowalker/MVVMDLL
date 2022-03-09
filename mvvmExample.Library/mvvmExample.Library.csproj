@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UniRx">
+      <HintPath>..\..\MVVMDLL\Libraries\UniRx.dll</HintPath>
+    </Reference>
+    <Reference Include="Zenject">
+      <HintPath>..\..\MVVMDLL\Libraries\Zenject.dll</HintPath>
+    </Reference>
+    <Reference Include="Zenject-ReflectionBaking">
+      <HintPath>..\..\Resources\NonUnityBuild\Temp\Release\Zenject-ReflectionBaking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

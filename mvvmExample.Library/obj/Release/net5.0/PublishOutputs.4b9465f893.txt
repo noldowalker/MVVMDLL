@@ -1,0 +1,7 @@
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\MVVMDLL.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\MVVMDLL.deps.json
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\MVVMDLL.pdb
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\UniRx.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\Zenject-Signals.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\Zenject-usage.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Release\net5.0\publish\Zenject.dll

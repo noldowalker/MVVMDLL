@@ -1,0 +1,16 @@
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\MVVMDLL.deps.json
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\MVVMDLL.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\ref\MVVMDLL.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\MVVMDLL.pdb
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\UniRx.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\Zenject-usage.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\bin\Debug\net5.0\Zenject.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.csproj.AssemblyReference.cache
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.AssemblyInfoInputs.cache
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.AssemblyInfo.cs
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.csproj.CoreCompileInputs.cache
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.csproj.CopyComplete
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\ref\MVVMDLL.dll
+D:\Work\Gamedev\MVVMDLL\MVVMDLL\obj\Debug\net5.0\MVVMDLL.pdb
